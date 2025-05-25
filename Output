@@ -1,0 +1,25 @@
+Choose a shape:
+1. Circle
+2. Rectangle
+3. Triangle
+1
+Enter radius: 5
+Area of circle: 78.53981633974483
+
+Choose a shape:
+1. Circle
+2. Rectangle
+3. Triangle
+2
+Enter length: 4
+Enter width: 6
+Area of rectangle: 24.0
+
+Choose a shape:
+1. Circle
+2. Rectangle
+3. Triangle
+3
+Enter base: 3
+Enter height: 7
+Area of triangle: 10.5
